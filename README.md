@@ -14,3 +14,9 @@ A password will be generated dependant on the user's input of length (8-128) and
 
 
 ## Links
+
+### Webpage
+https://terryh23.github.io/password-gen/
+
+### Repo
+https://github.com/TerryH23/password-gen
