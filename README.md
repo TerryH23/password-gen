@@ -9,7 +9,7 @@ A password will be generated dependant on the user's input of length and desired
 
 
 ## Preview
-
+![Preview](https://github.com/TerryH23/password-gen/blob/main/assets/Preview.png)
 
 
 
